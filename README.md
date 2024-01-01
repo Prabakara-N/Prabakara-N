@@ -6,6 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 -------------
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 * 🔭  I’m currently working on **Leet CV Website**
 * 🌍  I'm based in Coimbatore,Inida
 * 🖥️  See my portfolio at [My Portfolio](http://prabakaran-portfolio.netlify.app/)
@@ -14,7 +16,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ⚡  I am an enthusiastic, self-motivated, and responsible individual looking for a challenging role where I can continue to grow and make a positive impact. With a strong commitment to success and a passion for technology, I am confident in my ability to thrive in a dynamic and fast-paced work environment.
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ### Skills
 
