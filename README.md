@@ -1,9 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/Prabakara-N)
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="title" width="50px" />, I'm Prabakaran</h1>
 
-<h3 align="center">A passionate FullStack Developer from India</h3>
-
-
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 -------------
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -14,9 +12,6 @@
 * ✉️  You can contact me at [prabakaran.m0208@gmail.com](mailto:prabakaran.m0208@gmail.com)
 * 🧠  I'm learning Next.JS 14
 * ⚡  I am an enthusiastic, self-motivated, and responsible individual looking for a challenging role where I can continue to grow and make a positive impact. With a strong commitment to success and a passion for technology, I am confident in my ability to thrive in a dynamic and fast-paced work environment.
-
-
-
 
 ### Skills
 
