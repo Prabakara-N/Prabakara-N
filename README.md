@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 <h3 align="left">A passionate Front-End Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 -------------
@@ -12,6 +12,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [prabakaran.m0208@gmail.com](mailto:prabakaran.m0208@gmail.com)
 * 🧠  I'm learning Next.JS 14
 * ⚡  I am an enthusiastic, self-motivated, and responsible individual looking for a challenging role where I can continue to grow and make a positive impact. With a strong commitment to success and a passion for technology, I am confident in my ability to thrive in a dynamic and fast-paced work environment.
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### Skills
 
