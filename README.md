@@ -1,9 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prabakaran 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Prabakaran 
 ====================================================================================================================================
 
-Web Developer
--------------
+<h3 align="center">A passionate Front-End Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
+-------------
+* 🔭  I’m currently working on **Leet CV Website**
 * 🌍  I'm based in Coimbatore,Inida
 * 🖥️  See my portfolio at [My Portfolio](http://prabakaran-portfolio.netlify.app/)
 * ✉️  You can contact me at [prabakaran.m0208@gmail.com](mailto:prabakaran.m0208@gmail.com)
