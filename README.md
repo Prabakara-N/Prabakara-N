@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 -------------
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="360" height="240" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 * 🔭  I’m currently working on [**LeetCV Website**](https://www.leetcv.com/)
 * 🌍  I'm based in Coimbatore,Inida
