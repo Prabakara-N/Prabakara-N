@@ -16,7 +16,7 @@
 ### Languages-Frameworks-Tools 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,sass,vscode,github,tailwind,redux,git,nodejs,javascript,typescript,express,firebase,mongodb,nextjs,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,sass,firebase,tailwind,jest,bootstrap,mui,redux,nodejs,express,mongodb,vercel,github,vscode,git" />
 </p>
 
 ### Socials
