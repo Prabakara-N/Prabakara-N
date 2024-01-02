@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="360" height="240" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 * 🔭  I’m currently working on [**LeetCV Website**](https://www.leetcv.com/)
-* 🌍  I'm based in Coimbatore,Inida
+* 🌍  I'm based in Coimbatore,India.
 * 🖥️  See my portfolio at [**My Portfolio**](http://prabakaran-portfolio.netlify.app/)
 * ✉️  You can contact me at [**prabakaran.m0208@gmail.com**](mailto:prabakaran.m0208@gmail.com)
 * 🧠  I'm learning Next.JS 14
