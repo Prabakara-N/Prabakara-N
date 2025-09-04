@@ -1,16 +1,37 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/Prabakara-N)
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="title" width="50px" />, I'm Prabakaran</h1>
 
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 -------------
 <img align="right" alt="Coding" width="360" height="240" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-* 🌍  I'm based in Coimbatore,India.
-* 🖥️  See my portfolio at [**My Portfolio**](http://prabakaran-portfolio.netlify.app/)
-* ✉️  You can contact me at [**prabakaran.m0208@gmail.com**](mailto:prabakaran.m0208@gmail.com)
-* 🧠  I'm learning Next.JS 14
-* ⚡  I am an enthusiastic, self-motivated, and responsible individual looking for a challenging role where I can continue to grow and make a positive impact. With a strong commitment to success and a passion for technology, I am confident in my ability to thrive in a dynamic and fast-paced work environment.
+# Hi there 👋
+
+* 🌍 I'm based in Coimbatore, India  
+* 🖥️ Check out my portfolio: [**My Portfolio**](http://prabakaran-portfolio.netlify.app/)  
+* ✉️ Reach me at: [**prabakaran.m0208@gmail.com**](mailto:prabakaran.m0208@gmail.com)    
+* ⚡ Enthusiastic, self-motivated, and responsible individual seeking challenging roles where I can grow and make a positive impact. With a strong commitment to success and a passion for technology, I thrive in dynamic and fast-paced environments.
+
+## 🚀 About Me  
+I’m passionate about **full-stack development** and **creating delightful interfaces** that make a difference. My goal is to continue growing as a developer while contributing to impactful projects that push the boundaries of user experience.  
+
+---
+
+## 💼 Professional Experience  
+
+### Junior Software Engineer @ Darthwares (2 years)  
+As a Junior Software Engineer at **Darthwares**, I’ve spent 2 years building **responsive, scalable web apps** using **Next.js, React, TypeScript, Tailwind CSS, and tRPC**. I specialize in developing **real-time features with Firebase** and managing **complex state with Recoil and Jotai**.  
+
+I focus on **clean code, performance optimization, and delivering seamless user experiences**. Beyond coding, I actively contribute to **code reviews**, follow **best practices**, and continuously explore **new tools and frameworks** to improve productivity.  
+
+#### 🔑 Key Contributions:
+1. Built **responsive and performant UIs** using Next.js + Tailwind CSS  
+2. Integrated **tRPC** to ensure full-stack type safety  
+3. Managed **authentication, Firestore, and serverless functions** with Firebase  
+4. Applied **Recoil and Jotai** for complex state management in React workflows  
+5. Participated in **agile practices** including daily standups, code reviews, deployments, and releases
+
 
 ### Languages-Frameworks-Tools 
 
