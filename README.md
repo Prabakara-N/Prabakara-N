@@ -6,12 +6,14 @@
 -------------
 <img align="right" alt="Coding" width="360" height="240" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-# Hi there 👋
+<h4>Hi there 👋</h4>
+
 
 * 🌍 I'm based in Coimbatore, India  
 * 🖥️ Check out my portfolio: [**My Portfolio**](http://prabakaran-portfolio.netlify.app/)  
 * ✉️ Reach me at: [**prabakaran.m0208@gmail.com**](mailto:prabakaran.m0208@gmail.com)    
 * ⚡ Enthusiastic, self-motivated, and responsible individual seeking challenging roles where I can grow and make a positive impact. With a strong commitment to success and a passion for technology, I thrive in dynamic and fast-paced environments.
+
 
 ## 🚀 About Me  
 I’m passionate about **full-stack development** and **creating delightful interfaces** that make a difference. My goal is to continue growing as a developer while contributing to impactful projects that push the boundaries of user experience.  
