@@ -10,7 +10,7 @@
 
 
 * 🌍 I'm based in Coimbatore, India  
-* 🖥️ Check out my portfolio: [**My Portfolio**](http://prabakaran-portfolio.netlify.app/)  
+* 🖥️ Check out my portfolio: [**My Portfolio**](https://prabakarandev.in/)  
 * ✉️ Reach me at: [**prabakaran.m0208@gmail.com**](mailto:prabakaran.m0208@gmail.com)    
 * ⚡ Enthusiastic, self-motivated, and responsible individual seeking challenging roles where I can grow and make a positive impact. With a strong commitment to success and a passion for technology, I thrive in dynamic and fast-paced environments.
 
