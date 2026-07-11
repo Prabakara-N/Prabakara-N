@@ -13,7 +13,7 @@
 * 🖥️ Check out my portfolio: [**My Portfolio**](https://prabakarandev.in/)
 * 🎨 Founder & sole engineer of [**CrayonSparks**](https://www.crayonsparks.com/) — a live AI Book SaaS
 * ✉️ Reach me at: [**prabakaran.m0208@gmail.com**](mailto:prabakaran.m0208@gmail.com)
-* ⚡ Full-Stack Software Engineer with **2+ years** of experience shipping production web apps end-to-end. I love turning ideas into well-architected, AI-powered products and I thrive in dynamic, fast-paced environments.
+* ⚡ Full-Stack Software Engineer with **3 years** of experience shipping production web apps end-to-end. I love turning ideas into well-architected, AI-powered products and I thrive in dynamic, fast-paced environments.
 
 
 ## 🚀 About Me
