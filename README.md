@@ -24,7 +24,7 @@ I'm a **Full-Stack Software Engineer** passionate about building **type-safe, AI
 ## 💼 Professional Experience
 
 ### Software Engineer @ Darthwares (Jul 2023 – Present)
-For 2+ years I've built **responsive, scalable web applications** with **Next.js, React, TypeScript, Tailwind CSS, tRPC and oRPC**. I specialize in **type-safe APIs**, **role-based access control (RBAC)**, **real-time features with Firebase**, and **AI-powered modules** serving **2,500+ users** across enterprise and ed-tech products.
+For 3 years I've built **responsive, scalable web applications** with **Next.js, React, TypeScript, Tailwind CSS, tRPC and oRPC**. I specialize in **type-safe APIs**, **role-based access control (RBAC)**, **real-time features with Firebase**, and **AI-powered modules** serving **2,500+ users** across enterprise and ed-tech products.
 
 I focus on **clean architecture, performance optimization, and seamless user experiences**. Beyond coding, I drive **code reviews**, follow **best practices**, and continuously explore **new tools and frameworks** to ship faster.
 
