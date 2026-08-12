@@ -54,7 +54,7 @@ I focus on **clean architecture, performance optimization, and seamless user exp
   <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,sass,redux,bootstrap" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,jest,git,github,vscode,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,jest,git,github,vscode,cloudflare,postgresql,mysql" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,postman" />
