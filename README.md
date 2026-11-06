@@ -23,6 +23,9 @@ I'm a **Full-Stack Software Engineer** passionate about building **type-safe, AI
 
 ## 💼 Professional Experience
 
+### Software Developer II @ NETGEAR (Nov 2026 – Present)
+Working at NETGEAR, a global networking company delivering innovative connectivity solutions.
+
 ### Software Engineer @ Darthwares (Jul 2023 – Oct 2026)
 For 3 years I've built **responsive, scalable web applications** with **Next.js, React, TypeScript, Tailwind CSS, tRPC and oRPC**. I specialize in **type-safe APIs**, **role-based access control (RBAC)**, **real-time features with Firebase**, and **AI-powered modules** serving **2,500+ users** across enterprise and ed-tech products.
 
